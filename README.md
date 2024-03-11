@@ -1,6 +1,6 @@
 # Spotify Album Analysis 
 
-This Python application allows users to analyze and visualize audio features of tracks from specified albums using the Spotify API. It provides insights into various aspects of music, including danceability, energy, valence, tempo, acousticness, and instrumentalness.
+This Python application allows users to analyze audio features of tracks from specified albums using the Spotify API. It provides insights into various aspects of music, including danceability, energy, valence, tempo, acousticness, and instrumentalness.
 
 ## Features
 
